@@ -40,5 +40,5 @@
      - Приложение отображает сообщение "GAME OVER" и предлагает нажать клавишу 'R' для перезапуска игры.
 
 <video width="320" height="240" controls>
-  <source src="IMG_6166.MOV" type="video/MOV">
+  <source src="IMG_6166.mp4" type="video/mp4">
 </video>
